@@ -1,18 +1,13 @@
+# Responsive Design Challenge
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Welcome to my first responsive design webpage.
 
+This website was built as part of the learning material for Code Institute's Fullstack Web Developer program.
 
-Hi there! Welcome to Cloud9 IDE!
+## Project Description
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
+This site was created in order to get familiar with the mobile-first approach.
 
-Happy coding!
-The Cloud9 IDE team
+## Technology
+
+This project was written in HTML & CSS using Cloud9 and is currently hosted on GitHub pages.
